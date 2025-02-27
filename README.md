@@ -1,7 +1,7 @@
-# The effect of textual characteristics on semi-automated title-abstract screening for systematic reviews of prognosis 
+# The Association between Textual Characteristics of Abstracts and Findability via Technology-Assisted Reviewing
 
 ### Description
-This repository contains the code of a simulation study on the effects of textual characteristics on semi-automated title-abstract screening for systematic reviews of prognosis using the [ASReview](https://github.com/asreview) tool. 
+This repository contains the code of a simulation study on the effects of textual characteristics on Technology-Assisted Reviewing (TAR) or semi-automated title-abstract screening for systematic reviews of prognosis.
 
 ### Python codes
 - data_preprocessing.py
