@@ -1,4 +1,4 @@
-# The Association between Textual Characteristics of Abstracts and Findability via Technology-Assisted Reviewing
+# Association between Textual Characteristics of Abstracts and Findability via Technology-Assisted Reviewing
 
 ### Description
 This repository contains the code of a simulation study on the effects of textual characteristics on Technology-Assisted Reviewing (TAR) or semi-automated title-abstract screening for systematic reviews of prognosis.
