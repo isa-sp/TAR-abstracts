@@ -3,7 +3,7 @@
 ### Description
 This repository contains the code of a simulation study on the effects of textual characteristics of abstracts on semi-automated title-abstract screening or Technology-Assisted Reviewing (TAR) for evidence synthesis, specifically for systematic reviews. We evaluated the impact of textual quality and other characteristics of abstracts in terms of:
 
-**(I)** Abstract reporting quality, formulated by the *Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis* [TRIPOD statement](https://www.tripod-statement.org/)
+**(I)** Abstract reporting quality, according to the *Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis* (TRIPOD) statement by [Collins *et al.* (2015)](https://pubmed.ncbi.nlm.nih.gov/25623047/), on which more can be found at [www.tripod-statement.org](https://www.tripod-statement.org/).
 
 **(II)** Abstract structural components (length, average sentence length, and structured vs unstructured)
 
