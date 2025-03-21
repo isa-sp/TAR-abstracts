@@ -1,15 +1,17 @@
-# Association between Textual Characteristics of Abstracts and Findability via Technology-Assisted Reviewing
+# Write Your Abstracts Carefully - Association between Textual Quality of Abstracts and Findability via Semi-Automated Screening
 
 ### Description
-This repository contains the code of a simulation study on the effects of textual characteristics on Technology-Assisted Reviewing (TAR) or semi-automated title-abstract screening for systematic reviews of prognosis.
+This repository contains the code of a simulation study on the effects of textual characteristics on semi-automated title-abstract screening or Technology-Assisted Reviewing (TAR) for evidence syntethesis, specifically for systematic reviews of prognosis studies.
 
 ### Python codes
-- data_preprocessing.py
-
+- compute_rankings.py
+- data_preprocessing.ipynb
+- set-up.ipynb
+  
 ### Data
-The prognosis reviews (Table 1) are listed and may become available in the data folder upon approval of the respective authors. 
+The reviews (Table 1) are listed and the corresponding pmid's of the studies including the full-text labels are available in the data folder.
 
-##### Table 1 | The datasets of previously conducted **prognosis reviews** that were used in the simulation
+##### Table 1 | The datasets of previously conducted systematic reviews that were used in the simulation study
 
 | Review ID | Review number | Total records    | Relevant records (%)    | Final inclusions | Reference | Title |
 | --- | :---:   | :---: | :---: | :---: | :---: | :---: |
