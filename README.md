@@ -1,7 +1,13 @@
 # Write Your Abstracts Carefully - Association between Textual Quality of Abstracts and Findability via Semi-Automated Screening
 
 ### Description
-This repository contains the code of a simulation study on the effects of textual characteristics of abstracts on semi-automated title-abstract screening or Technology-Assisted Reviewing (TAR) for evidence syntethesis, specifically for systematic reviews of prognosis studies.
+This repository contains the code of a simulation study on the effects of textual characteristics of abstracts on semi-automated title-abstract screening or Technology-Assisted Reviewing (TAR) for evidence synthesis, specifically for systematic reviews. We evaluated the impact of textual quality and other characteristics of abstracts in terms of:
+
+**(I)** Abstract reporting quality, formulated by the *Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis* [TRIPOD statement](https://www.tripod-statement.org/)
+
+**(II)** Abstract structural components (length, average sentence length, and structured vs unstructured)
+
+**(III)** Abstract terminology usage, computed by the deviation in TF-IDF vector values as a measure of aberrant term occurrence
 
 ### Python codes
 - compute_rankings.py
