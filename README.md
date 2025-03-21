@@ -13,6 +13,6 @@ The prognosis reviews (Table 1) are listed and may become available in the data 
 
 | Review ID | Review number | Total records    | Relevant records (%)    | Final inclusions | Reference | Title |
 | --- | :---:   | :---: | :---: | :---: | :---: | :---: |
-| Prog_reporting | 1 | 2482   | 312 (12.6)   | 152 | Andaur Navarro *et al.* (2022) | Completeness of reporting of clinical prediction models developed using supervised machine learning: a systematic review|
-| Prog_tripod | 3 | 4871   | 347 (7.1)   | 147 | Heus *et al.* (2018) | Poor reporting of multivariable prediction model studies: towards a targeted implementation strategy of the TRIPOD statement|
+| Prog1_reporting | 1 | 2482   | 312 (12.6)   | 152 | Andaur Navarro *et al.* (2022) | Completeness of reporting of clinical prediction models developed using supervised machine learning: a systematic review|
+| Prog3_tripod | 3 | 4871   | 347 (7.1)   | 147 | Heus *et al.* (2018) | Poor reporting of multivariable prediction model studies: towards a targeted implementation strategy of the TRIPOD statement|
 
