@@ -1,7 +1,7 @@
 # Write Your Abstracts Carefully - Association between Textual Quality of Abstracts and Findability via Semi-Automated Screening
 
 ### Description
-This repository contains the code of a simulation study on the effects of textual characteristics on semi-automated title-abstract screening or Technology-Assisted Reviewing (TAR) for evidence syntethesis, specifically for systematic reviews of prognosis studies.
+This repository contains the code of a simulation study on the effects of textual characteristics of abstracts on semi-automated title-abstract screening or Technology-Assisted Reviewing (TAR) for evidence syntethesis, specifically for systematic reviews of prognosis studies.
 
 ### Python codes
 - compute_rankings.py
