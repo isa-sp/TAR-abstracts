@@ -15,7 +15,7 @@ This repository contains the code of a simulation study on the effects of textua
 - set-up.ipynb
   
 ### Data
-The reviews (Table 1) are listed and the corresponding pmid's of the studies including the full-text labels are available in the data folder.
+The reviews (Table 1) are listed and the corresponding PubMed identifiers (pmids) of the studies including the full-text labels are available in the data folder.
 
 ##### Table 1 | The datasets of previously conducted systematic reviews that were used in the simulation study
 
