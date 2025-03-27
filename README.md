@@ -1,4 +1,4 @@
-# Write Your Abstracts Carefully - Association between Textual Quality of Abstracts and Findability via Semi-Automated Screening
+# Write Your Abstracts Carefully - The Impact of Abstract Reporting Quality on Findability by Semi-Automated Title-Abstract Screening Tools
 
 ### Description
 This repository contains the code of a simulation study on the effects of textual characteristics of abstracts on semi-automated title-abstract screening or Technology-Assisted Reviewing (TAR) for evidence synthesis, specifically for systematic reviews. We evaluated the impact of textual quality and other characteristics of abstracts in terms of:
