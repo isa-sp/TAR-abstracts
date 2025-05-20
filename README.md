@@ -26,5 +26,5 @@ The systematic reviews (Table 1) are listed and their corresponding data are ava
 | Review ID | Review number | Total records    | Relevant records (%)    | Final inclusions | Reference | Title |
 | --- | :---:   | :---: | :---: | :---: | :---: | :---: |
 | Prog1_reporting | 1 | 2482   | 312 (12.6)   | 152 | Andaur Navarro *et al.* (2022) | [Completeness of reporting of clinical prediction models developed using supervised machine learning: a systematic review](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01469-6)|
-| Prog3_tripod | 3 | 4871   | 347 (7.1)   | 147 | Heus *et al.* (2018) | [Poor reporting of multivariable prediction model studies: towards a targeted implementation strategy of the TRIPOD statement](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-018-1099-2)|
+| Prog3_tripod | 2 | 4871   | 347 (7.1)   | 147 | Heus *et al.* (2018) | [Poor reporting of multivariable prediction model studies: towards a targeted implementation strategy of the TRIPOD statement](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-018-1099-2)|
 
