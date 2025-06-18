@@ -1,6 +1,7 @@
 # Write Your Abstracts Carefully - The Impact of Abstract Reporting Quality on Findability by Semi-Automated Title-Abstract Screening Tools
 <br>
-Corresponding to: <br>
+
+This repository corresponding to the study on the impact of abstract reporting quality on findability by semi-automated screening tools: <br>
 
 **I. Spiero, A.M. Leeuwenberg, K.G.M. Moons, L. Hooft, J.A.A. Damen (2025). Write Your Abstracts Carefully - The Impact of Abstract Reporting Quality on Findability by Semi-Automated Title-Abstract Screening Tools. *Submitted*** 
 
@@ -14,9 +15,9 @@ This repository contains the code of a simulation study on the effects of textua
 **(III)** Abstract terminology usage, computed by the deviation in mean TF-IDF vector values as a measure of aberrant term occurrence
 
 ### Codes
-- data_preprocessing.ipynb : to clean the raw TRIPOD scores and add the other abstracts characterstics for the available systematic review datasets
-- compute_rankings.py : to compute rankings when using a semi-automated title-abstract screening tool (with TF-IDF, sBERT, and Doc2Vec as the feature extraction models)
-- results_generation.ipynb : to use the abstract data and rankings to assess the association between the abstract characterstics and ranking positions
+- ```data_preprocessing.ipynb``` : to clean the raw TRIPOD scores and add the other abstracts characterstics for the available systematic review datasets
+- ```compute_rankings.py``` : to compute rankings when using a semi-automated title-abstract screening tool (with TF-IDF, sBERT, and Doc2Vec as the feature extraction models)
+- ```results_generation.ipynb``` : to use the abstract data and rankings to assess the association between the abstract characterstics and ranking positions
   
 ### Data
 The systematic reviews (Table 1) are listed and their corresponding data are available upon request.
