@@ -10,13 +10,13 @@ This repository contains the code of a simulation study on the effects of textua
 
 **(I)** Abstract reporting quality, according to the *Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis* (TRIPOD) statement by [Collins *et al.* (2015)](https://pubmed.ncbi.nlm.nih.gov/25623047/), on which more can be found at [www.tripod-statement.org](https://www.tripod-statement.org/).
 
-**(II)** Abstract structural components (length, average sentence length, and structured vs unstructured)
+**(II)** Abstract structural components
 
-**(III)** Abstract terminology usage, computed by the deviation in mean TF-IDF vector values as a measure of aberrant term occurrence
+**(III)** Abstract terminology usage
 
 ### Codes
 - ```data_preprocessing.ipynb``` : to clean the raw TRIPOD scores and add the other abstracts characterstics for the available systematic review datasets
-- ```compute_rankings.py``` : to compute rankings when using a semi-automated title-abstract screening tool (with TF-IDF, sBERT, and Doc2Vec as the feature extraction models)
+- ```compute_rankings.py``` : to compute rankings when using a semi-automated title-abstract screening tool
 - ```results_generation.ipynb``` : to use the abstract data and rankings to assess the association between the abstract characterstics and ranking positions
   
 ### Data
